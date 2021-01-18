@@ -1,0 +1,7 @@
+Archivo 2
+Vamos a cambiar este archivo para explicar cómo deshacer cambios.
+arreglo archivo
+
+
+
+
