@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Archivo 2
 Vamos a cambiar este archivo para explicar cómo deshacer cambios.
 arreglo archivo
@@ -5,3 +6,5 @@ Volvemos a editar archivo
 
 
 
+=======
+>>>>>>> parent of 61aef18... arreglo archivo
